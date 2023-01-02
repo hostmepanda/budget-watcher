@@ -6,6 +6,7 @@
   "author": "hostmepanda",
   "license": "MIT",
   "dependencies": {
-    "moleculer": "^0.14.27"
+    "moleculer": "^0.14.27",
+    "moleculer-web": "^0.10.5"
   }
 }
