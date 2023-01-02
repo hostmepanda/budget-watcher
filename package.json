@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/hostmepanda/budget-watcher.git",
   "author": "hostmepanda",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moleculer": "^0.14.27"
+  }
 }
